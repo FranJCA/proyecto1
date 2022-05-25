@@ -13,6 +13,9 @@ let cargarApp = ()=>{
     cargarIngresos ();
     cargarEgresos();
     console.log(totalEgresos());
+    console.log(5+5);
+
+
 }
 
 let totalIngresos = ()=>{
